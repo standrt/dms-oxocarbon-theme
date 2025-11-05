@@ -1,0 +1,28 @@
+{
+    "name": "Oxocarbon Dark",
+    
+    "primary": "#78a9ff", 
+    "primaryText": "#f2f4f8",
+    "primaryContainer": "#393939",
+
+    "secondary": "#3ddbd9",
+    "surfaceTint": "#78a9ff",
+
+    "surface": "#161616",
+    "surfaceText": "#f2f4f8",
+    "surfaceVariant": "#262626",
+    "surfaceVariantText": "#dde1e6",
+
+    "surfaceContainer": "#1c1c1c",
+    "surfaceContainerHigh": "#262626",
+    "surfaceContainerHighest": "#393939",
+
+    "background": "#000000",
+    "backgroundText": "#f2f4f8",
+
+    "outline": "#525252",
+
+    "error": "#ee5396",
+    "warning": "#ff7eb6",
+    "info": "#33b1ff"
+}
