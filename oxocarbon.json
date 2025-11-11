@@ -1,28 +1,22 @@
 {
-    "name": "Oxocarbon Dark",
-    
-    "primary": "#78a9ff", 
-    "primaryText": "#f2f4f8",
+    "name": "Oxocarbon-Dark",
+    "primary": "#ff7eb6",
+    "primaryText": "#161616",
     "primaryContainer": "#393939",
-
-    "secondary": "#3ddbd9",
-    "surfaceTint": "#78a9ff",
-
+    "secondary": "#42be65",
     "surface": "#161616",
-    "surfaceText": "#f2f4f8",
-    "surfaceVariant": "#262626",
-    "surfaceVariantText": "#dde1e6",
-
-    "surfaceContainer": "#262626",
+    "surfaceText": "#ffffff",
+    "surfaceVariant": "#393939",
+    "surfaceVariantText": "#f2f2f2",
+    "surfaceTint": "#ee5396",
+    "background": "#161616",
+    "backgroundText": "#f4f2f8",
+    "outline": "#525252",
+    "surfaceContainer": "#161616",
     "surfaceContainerHigh": "#262626",
     "surfaceContainerHighest": "#393939",
-
-    "background": "#000000",
-    "backgroundText": "#f2f4f8",
-
-    "outline": "#525252",
-
     "error": "#ee5396",
     "warning": "#ff7eb6",
-    "info": "#33b1ff"
+    "info": "#78a9ff",
+    "matugen_type": "scheme-expressive"
 }
